@@ -11,6 +11,8 @@ cd Terminal_Map_Traversal
 ```
 Start the game by running **Game.java**
 
+>Technical code features in my project:
+
 -	In CommandWords.java, all the available command words are listed. A function “GetCommandList” is made to print out all command words when called.
 -	Parser.java reads the input in the terminal.
 -	Command.java checks the input syntax. 
