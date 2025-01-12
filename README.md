@@ -1,5 +1,5 @@
 # Terminal_Map_Traversal
- Traversing through the map with your terminal!
+Go on a journey with your terminal!
 The project is a game of traversing through a map with terminal commands. 
 
 You should have a Java compiler on your laptop to run this game.
